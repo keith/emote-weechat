@@ -15,7 +15,7 @@ Copy the script to `~/.weechat/python/autoload`
 
 ```sh
 mkdir -p ~/.weechat/python/autoload
-wget https://raw.githubusercontent.com/keith/emote-weechat/master/urlview.py ~/.weechat/python/autoload
+wget https://raw.githubusercontent.com/keith/emote-weechat/master/emote.py ~/.weechat/python/autoload
 ```
 
 This is a python rewrite of [this plugin](https://weechat.org/scripts/source/emote.scm.html/)
